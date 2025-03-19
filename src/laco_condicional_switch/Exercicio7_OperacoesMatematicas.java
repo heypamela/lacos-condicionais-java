@@ -6,7 +6,8 @@ public class Exercicio7_OperacoesMatematicas {
     public static void main(String[] args) {
         Scanner lerScanner = new Scanner(System.in);
         
-        int numero1, numero2, resultado, codigoOperacao;
+        int codigoOperacao;
+        float numero1, numero2, resultado; 
 
         System.out.println("####  ###  ##  #  ##  ###  #####");
         System.out.println("--  Código  |    Operação     --");
